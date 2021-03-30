@@ -1,5 +1,7 @@
 # Framework 框架
 
+![Framework](https://github.com/dancingjasonxiao/mind-map/tree/main/assets/Framework.png)
+
 ## MVC/MVP/MVVM 架构模式
 
 ## 生命周期

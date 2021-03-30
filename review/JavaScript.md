@@ -1,5 +1,7 @@
 # JavaScript 基础
 
+![JavaScript](https://github.com/dancingjasonxiao/mind-map/tree/main/assets/JavaScript.png)
+
 ## 数据类型
 
 - 数据类型有哪些

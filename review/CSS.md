@@ -1,5 +1,7 @@
 # CSS 基础
 
+![CSS](https://github.com/dancingjasonxiao/mind-map/tree/main/assets/CSS.png)
+
 ## 权重/优先级
 
 - 权重如何计算

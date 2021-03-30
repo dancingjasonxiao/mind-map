@@ -1,6 +1,6 @@
 # Performance 性能优化
 
-![Performance](https://github.com/dancingjasonxiao/mind-map/tree/main/assets/Performance.png)
+![Performance](/assets/Performance.png)
 
 ## 打包优化
 

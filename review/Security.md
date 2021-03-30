@@ -1,6 +1,6 @@
 # Security 安全
 
-![Security](https://github.com/dancingjasonxiao/mind-map/tree/main/assets/Security.png)
+![Security](/assets/Security.png)
 
 ## XSS
 

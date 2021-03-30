@@ -18,8 +18,16 @@
 - 介绍下webpack的tree-sharking
 - 介绍下webpack的scope hosting
 
-- babel
-  - babel 原理
+## babel
 
-- 模版引擎
-  - 实现一个简单的模版引擎
+- babel 原理
+
+## 模版引擎
+
+- 实现一个简单的模版引擎
+
+## 前端发布
+
+- 前端项目如何发布到线上
+- cdn
+- 增量发布

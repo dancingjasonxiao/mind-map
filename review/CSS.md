@@ -1,6 +1,6 @@
 # CSS 基础
 
-![CSS](https://github.com/dancingjasonxiao/mind-map/tree/main/assets/CSS.png)
+![CSS](/assets/CSS.png)
 
 ## 权重/优先级
 

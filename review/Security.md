@@ -1,6 +1,7 @@
 # Security 安全
 
-![Security](/assets/Security.png)
+<!-- ![Security](/assets/Security.png) -->
+![Security](https://github.com/dancingjasonxiao/mind-map/blob/main/assets/Security.png?raw=true)
 
 ## XSS
 

@@ -1,6 +1,7 @@
 # Network 计算机网络
 
-![Network](/assets/Network.png)
+<!-- ![Network](/assets/Network.png) -->
+![Network](https://github.com/dancingjasonxiao/mind-map/blob/main/assets/Network.png?raw=true)
 
 ## HTTP
 

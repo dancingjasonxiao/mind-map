@@ -1,7 +1,6 @@
 # Performance 性能优化
 
-<!-- ![Performance](/assets/Performance.png) -->
-![Performance](https://github.com/dancingjasonxiao/mind-map/blob/main/assets/Performance.png?raw=true)
+![Performance](https://cdn.jsdelivr.net/gh/dancingjasonxiao/resource/img/Performance.png)
 
 ## 打包优化
 

@@ -1,7 +1,6 @@
 # Engineering 工程化
 
-<!-- ![Engineering](/assets/Engineering.png) -->
-![Engineering](https://github.com/dancingjasonxiao/mind-map/blob/main/assets/Engineering.png?raw=true)
+![Engineering](https://cdn.jsdelivr.net/gh/dancingjasonxiao/resource/img/Engineering.png)
 
 ## Webpack
 

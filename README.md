@@ -20,4 +20,4 @@ A knowledge architecture mind map
   - [ ] JavaScript
   - [ ] Algorithm
 
-### [Blog](https://dancingjasonxiao.github.io/blog)
+Go to [Blog](https://dancingjasonxiao.github.io)

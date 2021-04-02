@@ -1,7 +1,6 @@
 # JavaScript 基础
 
-<!-- ![JavaScript](/assets/JavaScript.png) -->
-![JavaScript](https://github.com/dancingjasonxiao/mind-map/blob/main/assets/JavaScript.png?raw=true)
+![JavaScript](https://cdn.jsdelivr.net/gh/dancingjasonxiao/resource/img/JavaScript.png)
 
 ## 数据类型
 

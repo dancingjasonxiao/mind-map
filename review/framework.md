@@ -1,7 +1,6 @@
 # Framework 框架
 
-<!-- ![Framework](/assets/Framework.png) -->
-![Framework](https://github.com/dancingjasonxiao/mind-map/blob/main/assets/Framework.png?raw=true)
+![Framework](https://cdn.jsdelivr.net/gh/dancingjasonxiao/resource/img/Framework.png)
 
 ## MVC/MVP/MVVM 架构模式
 
